@@ -10,6 +10,7 @@ const images = [
     'image9.jpeg',
     'image10.jpeg',
     'image11.jpeg',
+    'image12.jpeg',
     'gif1.webp',
     'gif2.webp',
     'gif3.webp',
